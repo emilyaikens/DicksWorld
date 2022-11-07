@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D08CB62A-C158-480E-A326-E1F2D1C7E456}"
+	ProjectSection(SolutionItems) = preProject
+		DicksSolution\Notes.txt = DicksSolution\Notes.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev.App.1", "DicksSolution\Dev.App.1\Dev.App.1.csproj", "{9F93B8FB-C884-454E-ACC7-F5C55F0F7BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F93B8FB-C884-454E-ACC7-F5C55F0F7BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F93B8FB-C884-454E-ACC7-F5C55F0F7BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F93B8FB-C884-454E-ACC7-F5C55F0F7BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F93B8FB-C884-454E-ACC7-F5C55F0F7BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7562415-AC77-4267-9F1B-B242526D1CC3}
+	EndGlobalSection
+EndGlobal
