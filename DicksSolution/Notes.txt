@@ -56,3 +56,9 @@ jobs:
           slot-name: 'production'
           publish-profile: ${{ secrets.AzureAppService_PublishProfile_1234 }}
           package: .
+
+
+note to self:
+
+  look into turning the header into a responsive nav bar
+  add body - current investments (Mr Dewies? UAH Tech?) and small "about" section
