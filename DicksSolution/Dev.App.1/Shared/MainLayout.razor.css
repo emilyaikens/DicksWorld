@@ -2,31 +2,28 @@
 body {
     height: 100vh;
 }
-.main-head {
-    display: flex;
-    align-items: center;
+.header {
     background-color: #003262;
-    height: 160px;
+    display: flex;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
 }
 .logo {
     width: 100px;
     padding-right: 10px;
 }
-.content {
-    padding-top: 0px;
-}
-.ursus {
+.title {
     font-size: 30px;
+    margin-top: 30px;
     letter-spacing: 1.5px;
     color: #C4820E;
 }
-.description {
+.sub {
     color: #3B7EA1;
     font-size: 20px;
     letter-spacing: 1.5px;
-}
-.test {
-    width: 90px;
 }
 .footer {
     position: absolute;
@@ -38,28 +35,26 @@ body {
     font-size: 18px;
 }
 
-@media only screen and (max-width: 800px) {
-    .ursus {
-        font-size: 25px;
-        margin-top: 10px;
+@media (max-width: 700px) {
+    .header {
+        flex-direction: column;
     }
-    .description {
-        font-size: 16px;
+    .words {
+        margin: 0 auto;
+        padding-bottom: 30px;
     }
-}
-
-@media only screen and (max-width: 600px) {
-    img {
-        display: none;
-    }
-    .ursus {
-        font-size: 22px;
-    }
-    .description {
-        font-size: 16px;
-    }
-    .content {
+    .title {
         text-align: center;
+        margin-top: 5px;
+        font-size: 20px;
+    }
+    .sub {
+        text-align: center;
+        font-size: 16px;
+    }
+    img {
+        margin: 0 auto;
+        padding-top: 30px;
     }
     .footer {
         font-size: 12px;
