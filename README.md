@@ -22,4 +22,5 @@ Blazor app built for UAH LLC
 </details>
 
 * Code by Emily Aikens
-* In collaboration with Richard A Beeson III
+* In collaboration with Richard A Beeson III, who was kind enough to name this repo "DicksWorld"
+* I was not the one who name it "DicksWorld"
