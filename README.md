@@ -1,7 +1,7 @@
 # Ursus Aurorus Holdings LLC Website
 
 ## Description
-Blazor app built for UAH LLC 
+Blazor app built for UAH LLC. Given an existing WordPress App, my goal was to recreate it as best as possible using Blazor and deploying to Azure.
 
 ## Techologies Used
 
@@ -22,5 +22,5 @@ Blazor app built for UAH LLC
 </details>
 
 * Code by Emily Aikens
-* In collaboration with Richard A Beeson III, who was kind enough to name this repo "DicksWorld"
+* In collaboration with Richard A Beeson III, who  is responsible for the repo name "DicksWorld"
 * I was not the one who name it "DicksWorld"
