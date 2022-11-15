@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using Dev.App._1.Data;
 
 namespace Dev.App._1;
 
