@@ -16,6 +16,9 @@ Blazor app built for UAH LLC
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Credits
-* UAH LLC Logo graphic design by Emily Aikens
-* Coded by Emily Aikens
-* Preliminary design and collaboration by Richard A Beeson III
+<details>
+<summary> UAH LLC Logo graphic design by Emily Aikens </summary>
+<img src="./DicksSolution/Dev.App.1/wwwroot/images/uah-logo.png">
+</details>
+* Code by Emily Aikens
+* In collaboration with Richard A Beeson III
