@@ -2,6 +2,10 @@
 
 ## Description
 Blazor app built for UAH LLC. Given an existing WordPress App, my goal was to recreate it as best as possible using Blazor and deploying to Azure.
+WIP, will add content as it is provided by client.
+
+## Deployment
+[Visit site](https://uah.llc/)
 
 ## Techologies Used
 
@@ -17,10 +21,9 @@ Blazor app built for UAH LLC. Given an existing WordPress App, my goal was to re
 
 ## Credits
 <details>
-<summary> UAH LLC Logo graphic design by Emily Aikens </summary>
+<summary> UAH LLC Logo and favicon graphic design by Emily Aikens </summary>
 <img src="./DicksSolution/Dev.App.1/wwwroot/images/uah-logo.png">
 </details>
 
 * Code by Emily Aikens
-* In collaboration with Richard A Beeson III, who  is responsible for the repo name "DicksWorld"
-* I was not the one who name it "DicksWorld"
+* In collaboration with Richard A Beeson III, who is responsible for the repo name "DicksWorld"
